@@ -28,6 +28,7 @@
   },
   "dependencies": {
     "@expo/next-adapter": "^3.1.6",
+    "antd": "^4.16.13",
     "chrome-aws-lambda": "10.1.0",
     "copy-to-clipboard": "3.3.1",
     "eth-hooks": "2.3.13",
