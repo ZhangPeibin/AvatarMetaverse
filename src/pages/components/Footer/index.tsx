@@ -38,7 +38,7 @@ export default function Footer() {
       </div>
 
       <div className="text-gray-500 px-6 text-center">
-        {`0x53A4D41194054f08a2B9D7301E4936F7F8dd334A `}
+        {`0x4a85A68ae0b4d36FEAf563ffe8B0E06Bd2548786 `}
       </div>
     </footer>
   );
